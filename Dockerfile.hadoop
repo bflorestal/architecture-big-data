@@ -1,3 +1,0 @@
-FROM sequenceiq/hadoop-docker:latest
-COPY core-site.xml /etc/hadoop/conf/core-site.xml
-COPY hdfs-site.xml /etc/hadoop/conf/hdfs-site.xml

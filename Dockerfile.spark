@@ -1,2 +1,0 @@
-FROM bitnami/spark:latest
-ENV SPARK_MASTER_URL spark://hadoop-master:7077
